@@ -1,2 +1,5 @@
 # MovieRankJSON
-电影榜单JSON数据
+
+本仓库仅用于补充电影榜单数据
+
+详见 Rocket-Factory/MovieJSON
